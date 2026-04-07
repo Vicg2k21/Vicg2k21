@@ -39,17 +39,17 @@ I enjoy solving problems through code and continuously improving my skills in bo
 
 Developed a desktop-based online collectible store using C# and Visual Studio 2022.
 Implemented features such as product listings, user interaction, and data handling.
-🔗 https://github.com/Vicg2k21/REPO-NAME-HERE
+🔗 https://github.com/Vicg2k21/collectables-store
 
 ### 🎮 Unity Game Project
 
 Created a game using Unity Hub and C#, focusing on gameplay mechanics, scripting, and user interaction.
-🔗 https://github.com/Vicg2k21/REPO-NAME-HERE
+🔗 https://github.com/Vicg2k21/sky-pumpkins-game
 
 ### ☕ Java Application
 
 Built a Java-based application using Apache NetBeans with a focus on object-oriented programming and functionality.
-🔗 https://github.com/Vicg2k21/REPO-NAME-HERE
+🔗 https://github.com/Vicg2k21/travel-agency
 
 ## 📫 Contact
 Email: vgallegosrodr@mymail.tstc.edu
