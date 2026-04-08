@@ -4,6 +4,8 @@
 
 💻 Aspiring Software Developer | Web & Application Development
 
+Welcome to my GitHub portfolio! Here you can find projects that demonstrate my skills in software development, game design, and application programming.
+
 ## 🚀 About Me
 
 I am an aspiring software developer with experience building web applications, desktop software, and games.
@@ -39,16 +41,25 @@ I enjoy solving problems through code and continuously improving my skills in bo
 
 Developed a desktop-based online collectible store using C# and Visual Studio 2022.
 Implemented features such as product listings, user interaction, and data handling.
+
+![Game Demo](https://github.com/Vicg2k21/sky-pumpkins-game/blob/main/Images/store-demo.gif)
+
 🔗 https://github.com/Vicg2k21/collectables-store
 
 ### 🎮 Unity Game Project
 
 Created a game using Unity Hub and C#, focusing on gameplay mechanics, scripting, and user interaction.
+
+![Game Demo](https://github.com/Vicg2k21/sky-pumpkins-game/blob/main/Images/game-demo.gif)
+
 🔗 https://github.com/Vicg2k21/sky-pumpkins-game
 
 ### ☕ Java Application
 
 Built a Java-based application using Apache NetBeans with a focus on object-oriented programming and functionality.
+
+![Game Demo](https://github.com/Vicg2k21/sky-pumpkins-game/blob/main/Images/travel-demo.gif)
+
 🔗 https://github.com/Vicg2k21/travel-agency
 
 ## 📫 Contact
