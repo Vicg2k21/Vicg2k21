@@ -42,7 +42,7 @@ I enjoy solving problems through code and continuously improving my skills in bo
 Developed a desktop-based online collectible store using C# and Visual Studio 2022.
 Implemented features such as product listings, user interaction, and data handling.
 
-![Game Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/store-demo.gif)
+![Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/store-demo.gif)
 
 🔗 https://github.com/Vicg2k21/collectables-store
 
@@ -50,7 +50,7 @@ Implemented features such as product listings, user interaction, and data handli
 
 Created a game using Unity Hub and C#, focusing on gameplay mechanics, scripting, and user interaction.
 
-![Game Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/game-demo.gif)
+![Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/game-demo.gif)
 
 🔗 https://github.com/Vicg2k21/sky-pumpkins-game
 
@@ -58,7 +58,7 @@ Created a game using Unity Hub and C#, focusing on gameplay mechanics, scripting
 
 Built a Java-based application using Apache NetBeans with a focus on object-oriented programming and functionality.
 
-![Game Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/travel-demo.gif)
+![Demo](https://github.com/Vicg2k21/Vicg2k21/blob/main/Images/travel-demo.gif)
 
 🔗 https://github.com/Vicg2k21/travel-agency
 
